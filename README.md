@@ -1,7 +1,11 @@
-# README
+# Handwritten Letter Recognition
 
-## NOTE 1: We would like to participate in the extra credit.
-## NOTE 2: The name of our report is called `project01.pdf`.
+## Description
+
+- This is a project done at University of Florida under the course Foundations of Machine Learning at Fall 2018 . 
+- The program made was a handwritten letter recognition with a scope of letters a,b,c,d,h,i,j,k
+- The members were: Joshua Siy, Ezequiel Garcia, Gayatri Behera and Junghoon Woo.  
+
 
 ## Script Descriptions
 
