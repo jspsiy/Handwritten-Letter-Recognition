@@ -4,7 +4,9 @@
 
 - This is a project done at University of Florida under the course Foundations of Machine Learning at Fall 2018 . 
 - The program made was a handwritten letter recognition with a scope of letters a,b,c,d,h,i,j,k
-- The members were: Joshua Siy, Ezequiel Garcia, Gayatri Behera and Junghoon Woo.  
+- The members were: Joshua Siy, Ezequiel Garcia, Gayatri Behera and Junghoon Woo.
+- The project uses Python, Numpy and Pytorch for the Convolutional Neural Networks
+
 
 
 ## Script Descriptions
